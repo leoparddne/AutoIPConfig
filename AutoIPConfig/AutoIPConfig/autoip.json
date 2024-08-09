@@ -1,0 +1,11 @@
+{
+  "Mode": 0,
+  "SSID": "BoawayOffice-5G",
+  "Password": "Boaway2022",
+  "ISDHCP": false,
+
+  "IP": "192.168.0.223",
+  "SubnetMask": "24",
+  "Gateway": "192.168.0.1",
+  "DNS": "8.8.8.8"
+}
